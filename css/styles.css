@@ -1,0 +1,15 @@
+i {
+    margin-right: 5px;
+}
+body {
+    background-image: url('../img/background_1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+#form_card, #jumbotron_table {
+    background-color: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(5px);
+}
